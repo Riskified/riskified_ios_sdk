@@ -1023,91 +1023,91 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpHostConfig.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpHostConfig.swift",
       "kind": "StringLiteral",
       "offset": 486,
       "length": 38,
       "value": "\"https:\/\/otp-widget-app.riskified.com\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpHostConfig.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpHostConfig.swift",
       "kind": "StringLiteral",
       "offset": 578,
       "length": 46,
       "value": "\"https:\/\/otp-widget-app-sandbox.riskified.com\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpHostConfig.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpHostConfig.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 45,
       "value": "\"https:\/\/otp-widget-app.staging.riskxint.com\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpLogger.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpLogger.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 9,
       "value": "\"Otp SDK\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpLogger.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 326,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpLogger.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpLogger.swift",
       "kind": "BooleanLiteral",
       "offset": 626,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/webview\/WebViewMessageOTPHandler.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/webview\/WebViewMessageOTPHandler.swift",
       "kind": "StringLiteral",
       "offset": 1664,
       "length": 18,
       "value": "\"mfa-flow-success\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/webview\/WebViewMessageOTPHandler.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/webview\/WebViewMessageOTPHandler.swift",
       "kind": "StringLiteral",
       "offset": 1709,
       "length": 18,
       "value": "\"mfa-widget-close\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/webview\/WebViewMessageOTPHandler.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/webview\/WebViewMessageOTPHandler.swift",
       "kind": "StringLiteral",
       "offset": 1752,
       "length": 18,
       "value": "\"mfa-flow-timeout\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/webview\/OtpWebViewRenderer.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/webview\/OtpWebViewRenderer.swift",
       "kind": "StringLiteral",
       "offset": 473,
       "length": 15,
       "value": "\"scriptHandler\""
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpController.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpController.swift",
       "kind": "BooleanLiteral",
       "offset": 390,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpSdk.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpSdk.swift",
       "kind": "IntegerLiteral",
       "offset": 2668,
       "length": 7,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/pedro.palmaramos\/code\/ios_beacon\/OtpSdk\/OtpSdk.swift",
+      "filePath": "\/Users\/joao.guitana\/IdeaProjects\/ios_beacon\/OtpSdk\/OtpSdk.swift",
       "kind": "IntegerLiteral",
       "offset": 2685,
       "length": 7,
